@@ -1,28 +1,5 @@
 {
   "streams": [
-    {
-      "title": "This is a new streams",
-      "description": "please enter descriptions",
-      "userId": "110203057966237132914",
-      "id": 1
-    },
-    {
-      "title": "121",
-      "description": "1212",
-      "userId": "110203057966237132914",
-      "id": 2
-    },
-    {
-      "title": "a",
-      "description": "hello",
-      "userId": "110203057966237132914",
-      "id": 3
-    },
-    {
-      "title": "kkk",
-      "description": "kkkkkk",
-      "userId": "110203057966237132914",
-      "id": 4
-    }
+    
   ]
 }
