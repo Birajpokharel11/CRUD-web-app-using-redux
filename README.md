@@ -3,3 +3,5 @@ This is a CRUD application using redux, redux form, Free fake API ( https://json
 To run this application run 
 npm install command in both
 api and client directory
+and 
+run npm start in both drectory
